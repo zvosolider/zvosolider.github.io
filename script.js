@@ -37,6 +37,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 printOutput("<b>arch linux user btw</b><br><br>");
                 printOutput("<b>contacts:</b>");
                 printOutput('<b>telegram: </b><a href="https://t.me/pablusha">@pablusha</a>');
+                printOutput('<b>telegram channel: </b><a href="https://t.me/webstalkerr">@webstalkerr</a>');
                 printOutput("<b>discord: </b>pablusha");
                 printOutput('<b>github: </b><a href="https://github.com/pablushaa">pablushaa</a>')
                 break;
